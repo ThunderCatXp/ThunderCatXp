@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **thundercatxp@yahoo.com**
 
-- ⚡ Fun fact **If you're reading this, you're awesome.**
+- ⚡ Fun fact ***If you're reading this, you're awesome.***
 
 
 <details>
