@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <style>
- background{
+  background{
      background-image: radial-gradient(
     rgba(255, 255, 255, 0.2) 8%, 
     transparent 8%
@@ -11,6 +11,7 @@
   width: 100%;
  }
 </style>
+
 
 
 <!--
