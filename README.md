@@ -1,6 +1,7 @@
 <h1 >Hi, I'm ThunderCat</h1>
 <h3 >Just a student and hobbyist</h3>
 
+- ✨ Passionate about web development, prompt engineering
 
 - 🌱 I’m currently learning **sveltekit, typescript**
 
