@@ -12,7 +12,7 @@
 - ⚡ Fun fact ***If you're reading this, you're awesome.***
 
 
-<details>
+<details open>
   <summary><h2>Skills</h2></summary>
 
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
@@ -27,3 +27,5 @@
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
 </details>
+
+<div style="width:100%;height:0;padding-bottom:56%;position:flex; justify:center;"><img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGIxM3AzNTRkMjJpOG91Y2VvNWMyNGVqb3oxZDZlY3RjZmY3ZnVpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1aAO2OlmDOZUs/giphy.gif title="Literally me"> </div>
