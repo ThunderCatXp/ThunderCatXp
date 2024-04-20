@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **sveltekit, typescript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ThunderCatXp](https://github.com/ThunderCatXp)
-
 - 📫 How to reach me **thundercatxp@yahoo.com**
 
 - ⚡ Fun fact ***If you're reading this, you're awesome.***
