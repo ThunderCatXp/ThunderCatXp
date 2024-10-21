@@ -1,7 +1,7 @@
 <h1 >Hi, I'm ThunderCat</h1>
 <h3 >Just a student and hobbyist</h3>
 
-- ✨ Passionate about web development, prompt engineering
+- ✨ Passionate about devops, web development, prompt engineering
 
 - 🌱 I’m currently learning **sveltekit, typescript**
 
@@ -25,5 +25,3 @@
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
 </details>
-
-<div style="width:100%;height:0;padding-bottom:56%;position:flex; justify:center;"><img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGIxM3AzNTRkMjJpOG91Y2VvNWMyNGVqb3oxZDZlY3RjZmY3ZnVpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1aAO2OlmDOZUs/giphy.gif title="Literally me"> </div>
