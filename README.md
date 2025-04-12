@@ -23,7 +23,9 @@
 [![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)](#)
 [![Hono](https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=fff)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
+[![Cisco](https://img.shields.io/badge/Cisco-4DABCF?logo=cisco&logoColor=fff)](#)
 
 
 </details>
