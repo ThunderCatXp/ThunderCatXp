@@ -1,9 +1,9 @@
 <h1 >Hi, I'm ThunderCat</h1>
 <h3 >Just a student and hobbyist</h3>
 
-- ✨ Passionate about devops, web development, prompt engineering
+- ✨ Passionate about devops
 
-- 🌱 I’m currently learning **sveltekit, typescript**
+- 🌱 I’m currently learning **Helm, k8s**
 
 - 📫 How to reach me **thundercatxp@yahoo.com**
 
