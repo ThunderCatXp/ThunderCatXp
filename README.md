@@ -1,14 +1,8 @@
 <h1 >Hi, I'm ThunderCat</h1>
-<h3 >Just a student and hobbyist</h3>
 
-- ✨ Passionate about devops
-
-- 🌱 I’m currently learning **Helm, k8s**
-
-- 📫 How to reach me **thundercatxp@yahoo.com**
-
-- ⚡ Fun fact ***If you're reading this, you're awesome.***
-
+🚀 SysAdmin | DevOps Engineer in the making. Formerly in web dev, now passionate about the infrastructure layer.
+🏠 Building my homelab to master automation, cloud, and deployment pipelines.
+🔧 Current role: IT Support Specialist (1st & 2nd Line), bridging operations and development daily.
 
 <details open>
   <summary><h2>Skills</h2></summary>
@@ -18,6 +12,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![Ansible](https://img.shields.io/badge/Ansible-74A3AE?logo=ansible&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
