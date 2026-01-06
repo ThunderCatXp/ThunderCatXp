@@ -1,8 +1,8 @@
 <h1 >Hi, I'm ThunderCat</h1>
 
-🚀 SysAdmin | DevOps Engineer in the making. Formerly in web dev, now passionate about the infrastructure layer.
-🏠 Building my homelab to master automation, cloud, and deployment pipelines.
-🔧 Current role: IT Support Specialist (1st & 2nd Line), bridging operations and development daily.
+🚀 SysAdmin | DevOps Engineer in the making. Formerly in web dev, now passionate about the infrastructure layer.<br/>
+🏠 Building my homelab to master automation, cloud, and deployment pipelines.<br/>
+🔧 Current role: IT Support Specialist (1st & 2nd Line), bridging operations and development daily.<br/>
 
 <details open>
   <summary><h2>Skills</h2></summary>
